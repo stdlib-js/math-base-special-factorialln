@@ -169,7 +169,7 @@ for ( i = 0; i < x.length; i++ ) {
 
 ## See Also
 
--   [`@stdlib/math/base/special/factorial`][@stdlib/math/base/special/factorial]: evaluate a factorial.
+-   <span class="package-name">[`@stdlib/math/base/special/factorial`][@stdlib/math/base/special/factorial]</span><span class="delimiter">: </span><span class="description">evaluate a factorial.</span>
 
 </section>
 
