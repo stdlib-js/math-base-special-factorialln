@@ -161,6 +161,22 @@ for ( i = 0; i < x.length; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/factorial`][@stdlib/math/base/special/factorial]: evaluate a factorial.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -221,6 +237,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [factorial-function]: https://en.wikipedia.org/wiki/Factorial
 
 [empty-product]: https://en.wikipedia.org/wiki/Empty_product
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/factorial]: https://github.com/stdlib-js/math-base-special-factorial
+
+<!-- </related-links> -->
 
 </section>
 
