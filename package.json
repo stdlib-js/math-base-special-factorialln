@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/math-base-special-factorialln",
+  "version": "0.0.0",
+  "description": "Evaluate the natural logarithm of the factorial function.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-factorialln.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "special functions",
+    "special",
+    "function",
+    "factorial",
+    "log-scale",
+    "logarithm",
+    "fact",
+    "lfact",
+    "factorialln",
+    "combinatorics",
+    "gamma",
+    "number"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
