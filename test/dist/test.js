@@ -34,10 +34,10 @@ var factorialln = require( './../../dist' );
 
 // FIXTURES //
 
-var veryLargePositive = require( './../..xtures/julia/very_large_positive.json' );
-var largePositive = require( './../..xtures/julia/large_positive.json' );
-var mediumPositive = require( './../..xtures/julia/medium_positive.json' );
-var smallPositive = require( './../..xtures/julia/small_positive.json' );
+var veryLargePositive = require( './../fixtures/julia/very_large_positive.json' );
+var largePositive = require( './../fixtures/julia/large_positive.json' );
+var mediumPositive = require( './../fixtures/julia/medium_positive.json' );
+var smallPositive = require( './../fixtures/julia/small_positive.json' );
 
 
 // TESTS //
