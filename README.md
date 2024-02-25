@@ -127,7 +127,7 @@ Evaluating the natural logarithm of [factorial function][factorial-function] is 
 ## Usage
 
 ```javascript
-import factorialln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factorialln@esm/index.mjs';
+import factorialln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factorialln@v0.2.1-esm/index.mjs';
 ```
 
 #### factorialln( x )
@@ -172,7 +172,7 @@ var v = factorialln( NaN );
 <script type="module">
 
 import incrspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-incrspace@esm/index.mjs';
-import factorialln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factorialln@esm/index.mjs';
+import factorialln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factorialln@v0.2.1-esm/index.mjs';
 
 var x = incrspace( -10.0, 50.0, 0.5 );
 
