@@ -127,6 +127,11 @@ Evaluating the natural logarithm of [factorial function][factorial-function] is 
 ## Usage
 
 ```javascript
+import factorialln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factorialln@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-factorialln/tags). For example,
+
+```javascript
 import factorialln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factorialln@v0.2.2-deno/mod.js';
 ```
 
@@ -167,7 +172,7 @@ var v = factorialln( NaN );
 
 ```javascript
 import incrspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-incrspace@deno/mod.js';
-import factorialln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factorialln@v0.2.2-deno/mod.js';
+import factorialln from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factorialln@deno/mod.js';
 
 var x = incrspace( -10.0, 50.0, 0.5 );
 
