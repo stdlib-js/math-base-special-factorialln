@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`b0e68c5`](https://github.com/stdlib-js/stdlib/commit/b0e68c5bc8ee985794eb2ea1791c9337cd15fbd0) - **chore:** update to modern benchmark Makefile _(by Philipp Burckhardt)_
 -   [`e5ce2d6`](https://github.com/stdlib-js/stdlib/commit/e5ce2d609f303ac075cee06bfc453cddea9d039c) - **revert:** chore: update to modern benchmark Makefile _(by Philipp Burckhardt)_
 -   [`ac4992b`](https://github.com/stdlib-js/stdlib/commit/ac4992b3eeccbfcceea795f86cf669b2481d8250) - **chore:** update to modern benchmark Makefile _(by Philipp Burckhardt)_
 -   [`068bc90`](https://github.com/stdlib-js/stdlib/commit/068bc905997d518fef79bd94f22772f02a8915c4) - **docs:** add comment, revert to previous tolerance in `math/base/special/factorialln` [(#2778)](https://github.com/stdlib-js/stdlib/pull/2778) _(by Gunj Joshi)_
