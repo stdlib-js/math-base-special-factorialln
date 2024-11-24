@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-01)
+## Unreleased (2024-11-24)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ac4992b`](https://github.com/stdlib-js/stdlib/commit/ac4992b3eeccbfcceea795f86cf669b2481d8250) - **chore:** update to modern benchmark Makefile _(by Philipp Burckhardt)_
 -   [`068bc90`](https://github.com/stdlib-js/stdlib/commit/068bc905997d518fef79bd94f22772f02a8915c4) - **docs:** add comment, revert to previous tolerance in `math/base/special/factorialln` [(#2778)](https://github.com/stdlib-js/stdlib/pull/2778) _(by Gunj Joshi)_
 -   [`8a97c7d`](https://github.com/stdlib-js/stdlib/commit/8a97c7dbcb07a873fe7395156cfa1fa40beb1dad) - **chore:** update package meta data [(#2738)](https://github.com/stdlib-js/stdlib/pull/2738) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`1c43f05`](https://github.com/stdlib-js/stdlib/commit/1c43f05a04d6731ea7d1b93f89179da216259005) - **feat:** add C implementation for `math/base/special/factorialln` [(#2731)](https://github.com/stdlib-js/stdlib/pull/2731 ) _(by Gunj Joshi)_
