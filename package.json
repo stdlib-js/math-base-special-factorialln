@@ -43,7 +43,8 @@
     "@stdlib/math-base-assert-is-negative-integer": "^0.3.0",
     "@stdlib/math-base-napi-unary": "^0.2.3",
     "@stdlib/math-base-special-gammaln": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-base-incrspace": "^0.2.2",
